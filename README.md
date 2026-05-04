@@ -48,7 +48,7 @@ configs/        # Config files
 outputs/        # Results
 
 ▶️ Usage
-python inference/run_inference.py \
+python Satellite\ Monitoring.py \
     --input input.mp4 \
     --output outputs/
     
